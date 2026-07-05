@@ -1,8 +1,8 @@
 # Uber Frontend — CS2031 Week 14 E2E
 
 ALUMNOS:
-RICARDO JESUS PALOMINO MEZA - 202420152
-Fernando Aguirre Milla - 202420003
+- RICARDO JESUS PALOMINO MEZA - 202420152
+- Fernando Aguirre Milla - 202420003
 
 
 ## 1. Levantar el backend
